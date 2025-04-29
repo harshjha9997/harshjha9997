@@ -1,9 +1,6 @@
 ## Hi there 👋
-
-<!--
 **harshjha9997/harshjha9997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# harshjha999
+harshvrdhan jha 
 <h1 align="center">Hi 👋, I'm Harshvardhan jha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjha9997&label=Profile%20views&color=0e75b6&style=flat" alt="harshjha9997" /> </p>
@@ -22,10 +19,6 @@
 - 📫 How to reach me **prohacker8178@gmail.com**
 
 - ⚡ Fun fact **Harshvardhan Jha once debugged an issue so obscure that even the internet had no answers—and now it’s a story that inspires junior developers! 🚀 Would you like a different fun fact, or does this one fit your style? 😊**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
